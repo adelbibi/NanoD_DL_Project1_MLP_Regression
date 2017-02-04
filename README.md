@@ -9,5 +9,5 @@ create env -n env_name python=3
 source activate env_name
 conda install numpy matplotlib pandas juypter notebook
 cd "Path of this file"
-juypter notebook dlnd
+juypter notebook dlnd-your-first-neural-network.ipynb
 ```
