@@ -7,3 +7,6 @@ source activate env_name
 conda install numpy matplotlib pandas juypter notebook
 cd "Path of this file"
 juypter notebook dlnd
+```
+python demo.py
+```
