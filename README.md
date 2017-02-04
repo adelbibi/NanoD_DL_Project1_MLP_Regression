@@ -1,3 +1,9 @@
-# Multi layer Perceptron  RegRegression
-My solution to hw1 of the deep learning foundations nanodegree. The project is about MLP regression on bikes dataset.
-dsdsa
+# Multi layer Perceptron Regression
+This is my solution to project #1 of the deep learning foundations nanodegree.
+To run the code follows the instructions:
+
+create env -n env_name python=3
+source activate env_name
+conda install numpy matplotlib pandas juypter notebook
+cd "Path of this file"
+juypter notebook dlnd
