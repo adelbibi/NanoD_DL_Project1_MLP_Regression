@@ -1,7 +1,7 @@
 # Single Layer Perceptron Regression
 This is my solution to project #1 of the deep learning foundations nanodegree.
 
-To run the code follows the instructions:
+To run the code, follow the instructions:
 
 
 ```
